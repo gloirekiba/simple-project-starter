@@ -1,4 +1,4 @@
-# Clock
+# Project name
 
 **This project *name* is a *description***
 
