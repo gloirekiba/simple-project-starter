@@ -51,6 +51,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [CSS Tricks](https://css-tricks.com/) - The web docs used
 
+- *Hat tip to anyone whose code was used*
+
 ## Author
 
 * Gloire KIBA - [gloirekiba](https://github.com/gloirekiba)
